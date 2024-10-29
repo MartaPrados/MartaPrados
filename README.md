@@ -1,32 +1,27 @@
-# Hola, soy Marta 👋 
+# Hi, I'm Marta 👋 
 
-¡Bienvenidos a mi GitHub!
+Welcome to my GitHub!
 
-## 🌟 Sobre mí
-Soy publicista de profesión y actualmente trabajo como Head of Digital, liderando la estrategia digital en un entorno dinámico y multidisciplinar. 
-Además de mi pasión por el marketing digital, estoy comprometida con el aprendizaje continuo.
+## 🌟 About Me
+I'm a professional advertiser currently working as Head of Digital, leading digital strategy in a dynamic, multidisciplinary environment. Alongside my passion for digital marketing, I'm committed to continuous learning and am currently building my web development skills as a Fullstack Developer at 4Geeks Academy.
 
-- 🎓 Actualmente, aprendiendo en curso de **Fullstack Developer** en 4Geeks Academy.
-- 📈 Me interesa todo lo relacionado con **Inteligencia Artificial**, **nuevas tecnologías** y **estrategias de marketing digital**.
-- 🎥 **Fan del anime** y de las películas épicas; *El Señor de los Anillos* es mi favorita.
+- 🎓 Currently enrolled in the **Fullstack Developer** program at 4Geeks.
+- 📈 I'm interested in **Artificial Intelligence**, **new technologies**, and **digital marketing strategies**.
+- 🎥 **Anime fan** and epic movie enthusiast; *The Lord of the Rings* is my favorite.
 
-## 💼 Skills & Herramientas
-- **Digital Strategy** | **Marketing** | **Publicidad**
-- En constante aprendizaje sobre **HTML** | **CSS** | **JavaScript** | **React** | **Node.js** | **Python**.
+## 💼 Skills & Tools
+- **Digital Strategy** | **Marketing** | **Advertising**
+- Constantly learning **HTML** | **CSS** | **JavaScript** **React**, **Node.js**, and **Python**.
 
-## 🎨 Curiosidad sobre mí
-Los ejercicios de programación con los colores básicos en blanco, negro y rojo me parecen bastante aburridos, así que ¡siempre los entrego llenos de color! 
-Me encanta añadir fondos con unicornios o lo que se me ocurra, porque programar en escala de colores me divierte mucho más.
+## 🌱 What You'll Find on My GitHub
+Projects related to my web development journey, some experiments with AI, and practical applications of technology in digital marketing.
 
----
-
-## 🌱 En este GitHub encontrarás
-Proyectos en desarrollo o ya desarrollados relacionados con mi formación en 4Geeks en desarrollo web.
+## 🎨 Fun Fact About Me
+Programming exercises with standard black, white, and red colors feel pretty boring to me, so I always create my work filled with color! I love adding backgrounds with unicorns or whatever else comes to mind, because programming in full color just makes it more fun for me.
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀 No dudes en conectar conmigo para intercambiar ideas y colaborar en proyectos interesantes.
-
+Thanks for visiting my profile! 🚀 Feel free to connect with me to exchange ideas and collaborate on exciting projects.
 
 <!---
 MartaPrados/MartaPrados is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
